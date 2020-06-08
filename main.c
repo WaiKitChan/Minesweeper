@@ -175,7 +175,7 @@ LRESULT CALLBACK WndProc(HWND hwnd,UINT msg,WPARAM wParam,LPARAM lParam) {
 				case ID_TRIPLE:
 				case ID_QUADRUPLE:
 				case ID_QUINTUPLE:
-				case ID_SEXUPLE:
+				case ID_SEXTUPLE:
 				case ID_SEPTUPLE:{
 					int i;
 					multi=LOWORD(wParam)-ID_MULTI;

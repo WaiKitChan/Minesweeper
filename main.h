@@ -51,7 +51,7 @@
 #define ID_TRIPLE			123
 #define ID_QUADRUPLE		124
 #define ID_QUINTUPLE		125
-#define ID_SEXUPLE			126
+#define ID_SEXTUPLE			126
 #define ID_SEPTUPLE			127
 #define ID_CUSTOM			150
 #define ID_RESTART			170

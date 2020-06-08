@@ -12,7 +12,7 @@ MAIN_MENU MENU {
 		MENUITEM "Triple",ID_TRIPLE
 		MENUITEM "Quadruple",ID_QUADRUPLE
 		MENUITEM "Quintuple",ID_QUINTUPLE
-		MENUITEM "Sexuple",ID_SEXUPLE
+		MENUITEM "Sextuple",ID_SEXTUPLE
 		MENUITEM "Septuple",ID_SEPTUPLE
 		MENUITEM SEPARATOR
 		MENUITEM "Custom\t(Shift+C)",ID_CUSTOM
@@ -61,7 +61,7 @@ FONT 10,"Consolas"
 	LTEXT			"Triple",-1,10,45,40,10
 	LTEXT			"Quadruple",-1,10,55,40,10
 	LTEXT			"Quintuple",-1,10,65,40,10
-	LTEXT			"Sexuple",-1,10,75,40,10
+	LTEXT			"Sextuple",-1,10,75,40,10
 	LTEXT			"Septuple",-1,10,85,40,10
 	RTEXT			"Beginner",-1,50,15,50,10
 	RTEXT			"9999",BEST_BTIME,50,25,50,10

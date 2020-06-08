@@ -11,4 +11,4 @@ into an executable, he may have to add MultiSweeper.ico into resource.rc and mod
 line 225 of main.c.
 
 The executable creates a save file multmine.sav in the user's APPDATA, under a
-directory called MineSweeper.
+directory called MineSweeper (or save locally if APPDATA is not found).
